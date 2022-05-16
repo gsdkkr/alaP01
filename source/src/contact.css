@@ -1,0 +1,130 @@
+.contactBack1 {
+    height: 65vh;
+    background-color: rgba(0, 0, 0, 0.301);
+    margin-top: 20vh;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    border-radius: 25px;
+    float: center;
+  }
+  .contactTitle {
+    font-size: 60px;
+    color: white;
+    font-family: "Teko", sans-serif;
+    margin-left: 5vw;
+    padding-top: 2vh;
+    transition: transform 250ms;
+    width: 33%;
+    height: 1vh;
+  }
+  
+  #EmailContact {
+    height: 1%;
+    padding: 1vh;
+    width: 20vw;
+    /* margin-top: 15vh; */
+    margin-left: 5vw;
+    background-color: rgba(0, 0, 0, 0.301);
+    border: 1px solid #f3ca20;
+    color: white;
+    font-family: "Teko", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 15px;
+    transition: transform 250ms;
+  }
+  #EmailContact:hover {
+    border: 1px solid #f3ca20;
+    box-shadow: 5px 5px 5px #000000;
+    cursor: pointer;
+    transform: translateY(-2px);
+  }
+  #NaamContact {
+    padding: 1vh;
+    width: 20vw;
+    /* margin-top: 15vh; */
+    background-color: rgba(0, 0, 0, 0.301);
+    border: 1px solid #f3ca20;
+    color: white;
+    font-family: "Teko", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 15px;
+    transition: transform 250ms;
+  }
+  #NaamContact:hover {
+    border: 1px solid #f3ca20;
+    box-shadow: 5px 5px 5px #000000;
+    transform: translateY(-2px);
+    cursor: pointer;
+  }
+  #BedrijfContact {
+    padding: 1vh;
+    width: 20vw;
+    margin-top: 15vh;
+    background-color: rgba(0, 0, 0, 0.301);
+    border: 1px solid #f3ca20;
+    color: white;
+    font-family: "Teko", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 15px;
+    transition: transform 250ms;
+  }
+  #BedrijfContact:hover {
+    border: 1px solid #f3ca20;
+    box-shadow: 5px 5px 5px #000000;
+    transform: translateY(-2px);
+    cursor: pointer;
+  }
+  #BerichtContact {
+    height: 20vh;
+    padding: 1vh;
+    width: 60.5vw;
+    margin-top: 1vh;
+    margin-left: 5vw;
+    background-color: rgba(0, 0, 0, 0.301);
+    border: 1px solid #f3ca20;
+    color: white;
+    font-family: "Teko", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 15px;
+    transition: transform 250ms;
+  }
+  #BerichtContact:hover {
+    border: 1px solid #f3ca20;
+    box-shadow: 5px 5px 5px #000000;
+    transform: translateY(-2px);
+    cursor: pointer;
+  }
+  #ContactSend {
+    margin-left: 29vw;
+    font-family: "Teko", sans-serif;
+    border-radius: 15px;
+    font-size: 18px;
+    padding: 0.5vw;
+    padding-right: 1vw;
+    padding-left: 1vw;
+    background-color: #f3ca20;
+    color: #333;
+    border: 1px solid #f3ca20;
+    margin-top: 2vh;
+    transition: transform 250ms;
+  }
+  #ContactSend:hover {
+    background-color: #f3ca2098;
+    border: 1px solid #f3ca2098;
+    transform: translateY(-5px);
+    cursor: pointer;
+    box-shadow: -5px 5px 5px #f3ca2031;
+  }
+  .contactText1 p {
+    margin-top: -17vh;
+    margin-left: 73vw;
+    letter-spacing: 2px;
+    font-family: "Teko", sans-serif;
+    font-size: 25px;
+    color: black;
+  }
+  
